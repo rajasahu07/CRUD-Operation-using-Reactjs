@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Abhi",
+      "rollno": "8",
+      "standard": "V",
+      "id": 8
+    },
+    {
+      "name": "Param",
+      "rollno": "6",
+      "standard": "VI",
+      "id": 9
+    },
+    {
+      "name": "rj",
+      "rollno": "07",
+      "standard": "X",
+      "id": 11
+    }
+  ]
+}
